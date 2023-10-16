@@ -1,4 +1,4 @@
-# Trend-Analysis-and-Seasonal-Patterns-in-our-University-Pantry
+# Trend-Analysis-and-Seasonal-Patterns-in-our-Pantry
 
 # Requirements:
 
